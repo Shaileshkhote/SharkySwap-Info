@@ -1,3 +1,8 @@
+# Note 
+
+I am no way associated with the sharkyswap team and it's belongings,
+The community was struggling for a proper liquidity analytics tool so I forked the PCS code to build on top of it for the community 
+
 # OpenSource Ui Forked From PancakeSwap Info
 
 Its an open source contribution for sharkyswap analytics interface dashboard.
